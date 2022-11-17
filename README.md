@@ -1,2 +1,2 @@
 # tfidf-cosseno
-frank alcantara
+para a matéria de construção de interpretadores
